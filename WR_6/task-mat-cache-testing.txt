@@ -1,0 +1,2 @@
+With cache duration: 18.512312173843384 seconds
+Without cache duration: 18.039806604385376 seconds
